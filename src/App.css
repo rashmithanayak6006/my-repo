@@ -1,0 +1,26 @@
+.card{
+  font-family: 'Satisfy', cursive;
+}
+.nav-heads{
+  font-family: 'Exo 2', sans-serif;
+}
+.link-active{
+  color: #fff ;
+}
+.home{
+  font-family: 'Eczar', serif;
+}
+.form{
+  font-family: 'Nanum Myeongjo', serif;
+}
+.usertitle{
+  font-family: 'Acme', sans-serif;
+}
+.tech{
+  font-family: 'Delius', cursive;
+}
+
+.box{
+  font-family: 'Noto Serif', serif;
+  font-size: medium;
+}
